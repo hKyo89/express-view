@@ -1,0 +1,16 @@
+{
+  "name": "hkyo89-express-view",
+  "version": "1.0.0",
+  "description": "Express view renderer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Argi Karunia",
+  "license": "MIT",
+  "dependencies": {
+    "config": "^1.26.2",
+    "lodash": "^4.17.4"
+  },
+  "repository": "https://github.com/hkyo89/express-view"
+}
